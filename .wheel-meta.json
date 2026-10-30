@@ -1,0 +1,22 @@
+{
+  "wheel_id": 525,
+  "structure": "umbrella",
+  "slug": "goldcoastretainingwall-110",
+  "project": "retaining-walls-gold-coast-cost-guide-dcb7526e5543cf823e5777b01",
+  "parent_t1_ref": "goldcoastretainingwall-156",
+  "node_role": "feeder",
+  "money_target": "goldcoastretainingwall.net.au",
+  "primary_kw": "retaining walls gold coast cost guide",
+  "intended_url": "http://retaining-walls-gold-coast-cost-guide-dcb7526e5543cf823e5777b01.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "1d9d0f00c021e5bb",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-walls-gold-coast-d525c466ea8bcd6a88e19aea3f32f6e13c08/",
+      "anchor": "https://sites-e470-2.web.app/retaining-walls-gold-coast-d525c466ea8bcd6a88e19aea3f32f6e13c08/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
